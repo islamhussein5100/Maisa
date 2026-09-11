@@ -1,0 +1,6 @@
+{
+  "name": "MayaAssistant",
+  "description": "A clean, modern Android voice and text chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
